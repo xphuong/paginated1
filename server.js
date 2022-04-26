@@ -76,6 +76,6 @@ function paginatedResults(model) {
     
 }
 
-
+// example : http://localhost:4500/users?page=1&limit=4
 
 app.listen(4500)
